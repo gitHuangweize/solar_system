@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Solar System Explorer",
+  "description": "A dynamic, interactive 3D model of the solar system using React Three Fiber. Click on planets to learn more using Gemini AI.",
+  "requestFramePermissions": []
+}
