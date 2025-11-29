@@ -16,3 +16,5 @@ export interface PlanetInfoState {
   description: string;
   loading: boolean;
 }
+
+export type OnTravelComplete = () => void;
